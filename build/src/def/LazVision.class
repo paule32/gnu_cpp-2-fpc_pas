@@ -1,0 +1,15 @@
+# ----------------------------------------------------------
+# This file is part of FPV.
+# FPC TVision classes .object symbols Makefile definitions.
+#
+# (c) Copyright 2021 Jens Kallup - paule32
+# only for non-profit usage !!!
+# ----------------------------------------------------------
+
+LazVision_LazObject      = LAZVISION$(Laz_DOL)_$(Laz_DOL)TOBJECT_$(Laz_DOL)__$(Laz_DOL)$(Laz_DOL)
+LazVision_LazColor       = LAZVISION$(Laz_DOL)_$(Laz_DOL)TCOLOR_$(Laz_DOL)__$(Laz_DOL)$(Laz_DOL)
+LazVision_LazPalette     = LAZVISION$(Laz_DOL)_$(Laz_DOL)TPALETTE_$(Laz_DOL)__$(Laz_DOL)$(Laz_DOL)
+LazVision_LazMenuBar     = LAZVISION$(Laz_DOL)_$(Laz_DOL)TMENUBAR_$(Laz_DOL)__$(Laz_DOL)$(Laz_DOL)
+LazVision_LazStatusBar   = LAZVISION$(Laz_DOL)_$(Laz_DOL)TSTATUSBAR_$(Laz_DOL)__$(Laz_DOL)$(Laz_DOL)
+LazVision_LazBackground  = LAZVISION$(Laz_DOL)_$(Laz_DOL)TBACKGROUND_$(Laz_DOL)__$(Laz_DOL)$(Laz_DOL)
+LazVision_LazApplication = LAZVISION$(Laz_DOL)_$(Laz_DOL)TAPPLICATION_$(Laz_DOL)__$(Laz_DOL)$(Laz_DOL)
